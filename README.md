@@ -1,8 +1,8 @@
 # Practice programming problems
 <h2>Problems</h2>
 <a href="https://github.com/FrancisPepito/practice-programming-problems#kriti">Kriti's Birthday</a><p>
-<a href="maclaurin">Maclaurin Series</a><p>
-<a href="pyramid">Number Pyramid</a><p>
+<a href="https://github.com/FrancisPepito/practice-programming-problems#maclaurin">Maclaurin Series</a><p>
+<a href="https://github.com/FrancisPepito/practice-programming-problems#pyramid">Number Pyramid</a><p>
 </br>
 
 <a name="kriti"></a>
