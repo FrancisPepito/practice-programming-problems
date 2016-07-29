@@ -28,7 +28,7 @@ Write a program that would read a double x, and a positive integer k, and prints
 </br>
 
 <a name="pyramid"></a>
-<h3>Number Pyramid></h3>
+<h3>Number Pyramid</h3>
 You are required to come up with a simple Mathematical expression that would have th following output:<p>
         1=9<p>
        12=98<p>
